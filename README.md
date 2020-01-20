@@ -1,2 +1,2 @@
 # mi-primer-visual-studio
-Primee repositorio con Visual Studio
+Primer repositorio con Visual Studio
